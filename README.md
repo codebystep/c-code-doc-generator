@@ -95,3 +95,4 @@ The output is a LaTeX-formatted `.tex` file that can be further processed into a
 ---
 
 Created as a semester project. See `Dokumentace.pdf` for full technical details (note: document is written in Czech).
+
